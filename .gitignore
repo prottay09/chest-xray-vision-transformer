@@ -1,6 +1,4 @@
 lightning_logs/
-*.png
-*.jpg
 *.json
 __pycache__/
 outputs/
