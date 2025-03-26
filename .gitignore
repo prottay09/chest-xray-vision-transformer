@@ -1,0 +1,10 @@
+lightning_logs/
+*.png
+*.jpg
+*.json
+__pycache__/
+outputs/
+*.txt
+*.npz
+attention_data/
+attention_data/ViT-B_16-224.npz
